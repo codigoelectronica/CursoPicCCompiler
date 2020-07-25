@@ -1,0 +1,5 @@
+ÀÄdisplay-7-segmentos-anodo
+   ÀÄmain  0/30  Ram=2
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ@const569  0/14  Ram=0
+      ÀÄ@delay_ms1  0/21  Ram=1

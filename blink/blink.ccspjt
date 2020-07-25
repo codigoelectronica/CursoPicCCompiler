@@ -1,0 +1,60 @@
+[PROJECT]
+Target=blink.hex
+Processor_Text=PIC16F628A
+CCSVerions=5.076
+Compiler=PCM
+CCSVersion=5.076
+[Target Data]
+FileList=blink.c
+[Directories]
+Include=
+[C:\code\pic-c-compiler\blink\blink]
+Type=4
+[mru-list]
+1=blink.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=12-06-2020
+D1_L=17
+D1_L1=[54579]Project Opened.
+D1_L2=[54597]Project Closed.
+D1_L3=[54648]Project Opened.
+D1_L4=[54792]Started Editing.
+D1_L5=[55487]Stopped Editing.
+D1_L6=[55607]Started Editing.
+D1_L7=[55930]Stopped Editing.
+D1_L8=[56219]Started Editing.
+D1_L9=[56818]Stopped Editing.
+D1_L10=[57212]Started Editing.
+D1_L11=[57780]Stopped Editing.
+D1_L12=[66729]Project Opened.
+D1_L13=[66760]Started Editing.
+D1_L14=[67223]Stopped Editing.
+D1_L15=[78135]Started Editing.
+D1_L16=[78442]Stopped Editing.
+TotalEdit=3
+TotalDebug=0
+D1_E=3
+D1_D=0
+D1_L17=[83594]Project Closed.
+D2=20-07-2020
+D2_L=2
+D2_L1=[38285]Project Opened.
+D2_L2=[38342]Project Closed.
+
+[Opened Files]
+1=blink.c
+t1=1
+Count=1
+[blink.c]
+Type=4
+
+[defines]
+buildcount=7
+[Units]
+Count=1
+1=blink (main)

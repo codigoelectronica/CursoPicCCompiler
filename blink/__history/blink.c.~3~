@@ -1,0 +1,20 @@
+#include <16F628A.h>
+#use delay(internal=4000000)
+#fuses HS, NOWDT,PUT,BROWNOUT,NOMCLR,NOLVP,PROTECT,NOCPD
+
+#byte puerto_b = 00
+
+void main()
+{
+
+   set_tris_b(0x00);
+   puerto_b = 0;
+   
+   do {
+      delay_ms(1000);
+      bit_set(puerto_b, 0);
+      delay_ms(1000);
+      bit_clear(puerto_b, 0);
+   } 
+   while(TRUE);
+}

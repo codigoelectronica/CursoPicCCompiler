@@ -1,0 +1,24 @@
+[PROJECT]
+Target=display-7-segmentos-catodo.hex
+Processor_Text=PIC16F628A
+CCSVersion=5.076
+Compiler=PCM
+[Target Data]
+FileList=display-7-segmentos-catodo.c
+[display-7-segmentos-catodo.c]
+Type=4
+[mru-list]
+1=display-7-segmentos-catodo.c
+[Units]
+Count=1
+1=display-7-segmentos-catodo (main)
+
+[defines]
+buildcount=1
+
+[ProjectLog]
+Days=1
+D1=20-07-2020
+D1_L=2
+D1_L1=[39420]Stopped Editing.
+D1_L2=[41597]Project Closed.
